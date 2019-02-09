@@ -1,2 +1,9 @@
+# Files
+Cargo.lock
+
+# Folders
+
 .idea/*
+target/*
+
 

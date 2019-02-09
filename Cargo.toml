@@ -1,7 +1,8 @@
 [package]
-name = "Rustland"
+name = "rustland"
 version = "0.1.0"
 authors = ["Per Fahlander <perfah@kth.se>"]
 edition = "2018"
 
 [dependencies]
+wlroots="0.2.4"
